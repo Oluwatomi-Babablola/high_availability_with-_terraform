@@ -1,2 +1,2 @@
-# high_availability_with-_terraform
+# high_availability_with_terraform
 This terraform templates deployed a higher available web server
