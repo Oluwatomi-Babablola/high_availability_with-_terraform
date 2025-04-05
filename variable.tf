@@ -42,4 +42,3 @@ variable "instance_type" {
   description = "Instance type for the autoscaling group"
   default     = "t2.micro"
 }
-
